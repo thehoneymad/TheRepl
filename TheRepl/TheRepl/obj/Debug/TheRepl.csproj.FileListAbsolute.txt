@@ -1,0 +1,6 @@
+c:\users\swagata\documents\visual studio 2013\Projects\TheRepl\TheRepl\bin\Debug\TheRepl.exe.config
+c:\users\swagata\documents\visual studio 2013\Projects\TheRepl\TheRepl\obj\Debug\TheRepl.csprojResolveAssemblyReference.cache
+c:\users\swagata\documents\visual studio 2013\Projects\TheRepl\TheRepl\bin\Debug\TheRepl.exe
+c:\users\swagata\documents\visual studio 2013\Projects\TheRepl\TheRepl\bin\Debug\TheRepl.pdb
+c:\users\swagata\documents\visual studio 2013\Projects\TheRepl\TheRepl\obj\Debug\TheRepl.exe
+c:\users\swagata\documents\visual studio 2013\Projects\TheRepl\TheRepl\obj\Debug\TheRepl.pdb
